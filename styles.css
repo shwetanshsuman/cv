@@ -6,7 +6,7 @@ body{
     font-family: 'Merriweather', serif;
 }
 h1{
-    margin: 50px auto 0 auto;
+    margin: 3.125rem auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
     color: #3C5186;
@@ -21,7 +21,7 @@ h3{
 }
 a{
     color: #3C5186;
-    margin: 10px 20px;
+    margin: 0.625rem 1.25rem;
     text-decoration: none;
 }
 a:hover{
@@ -32,27 +32,27 @@ p{
 }
 .top_container{
     background-color:#C6B4CE;
-    padding-top: 100px;
+    padding-top: 6.25rem;
 
 }
 .middle_container{
     background-color: #FFF5DE;
-    margin: 100px 0;
+    margin: 6.25rem 0;
     
 }
 .bottom_container{
     background-color: #C6B4CE;
-    padding: 50px 0 20px;
+    padding: 3.125rem 0 1.25rem;
 }
 .top_cloud{
     position: absolute;
-    top: 50px;
-    right: 300px;
+    top: 3.125rem;
+    right: 18.75rem;
 }
 .bottom_cloud{
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 18.75rem;
+    bottom: 18.75rem;
 }
 .header_two{
     font-weight: normal;
@@ -60,28 +60,28 @@ p{
 .skill_row{
     width: 50%;
     text-align: left;
-    margin: 100px auto 100px auto;
+    margin: 6.25rem auto 6.25rem auto;
 }
 .skill_one{
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 .skill_two{
     width: 25%;
     float: right;
-    margin-left: 30px;
+    margin-left: 1.875rem;
 }
 hr{
     border-style: none;
     border-top-style: dotted;
     width: 5%;
-    border-width: 10px;
+    border-width: 0.625rem;
     border-color: #C6B4CE;
-    margin: 100px auto;
+    margin: 6.25rem auto;
 }
 .contact_me{
-    margin: 40px auto 60px;
+    margin: 2.5rem auto 3.75rem;
     width: 40%;
 }
 .intro{
@@ -95,18 +95,18 @@ hr{
     background-image: -ms-linear-gradient(top, #C6B4CE, #3C5186);
     background-image: -o-linear-gradient(top, #C6B4CE, #3C5186);
     background-image: -webkit-gradient(to bottom, #C6B4CE, #3C5186);
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    border-radius: 0.5rem;
     height: 0;
     line-height: 0;
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 30px;
-    width: 140px;
-    font-size: 20px;
+    margin-top: 1.875rem;
+    width: 8.75rem;
+    font-size: 1.25rem;
     font-weight: 100;
-    padding: 20px;
+    padding: 1.25rem;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
@@ -120,13 +120,17 @@ hr{
     background-image: -ms-linear-gradient(top, #C6B4CE, #C6B4CE);
     background-image: -o-linear-gradient(top, #C6B4CE, #C6B4CE);
     background-image: -webkit-gradient(to bottom, #C6B4CE, #C6B4CE);
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    border-radius: 0.5rem;
     text-decoration: none;
  }
  .footer{
     color: white;
     font-size: 0.75rem;
-    padding: 20px 0;
+    padding: 1.25rem 0;
+ }
+ .profile_image{
+    width: 12.5rem; 
+    height: 12.5rem;
  }
