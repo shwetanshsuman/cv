@@ -49,14 +49,14 @@ p{
     top: 3.125rem;
     right: 18.75rem;
     width: 12.5rem;
-    height: 6.25rem;
+    height: 5rem;
 }
 .bottom_cloud{
     position: absolute;
     left: 18.75rem;
     bottom: 18.75rem;
     width: 12.5rem;
-    height: 6.25rem;
+    height: 5rem;
 }
 .mountain{
     width: 31.25rem;
